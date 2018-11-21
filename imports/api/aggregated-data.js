@@ -1,0 +1,1 @@
+export const AggregatedData = new Mongo.Collection('aggregateddata');
